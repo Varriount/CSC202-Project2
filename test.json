@@ -1,0 +1,342 @@
+{
+  "@type":"food.CategoryList",
+  "head":{
+    "child":{
+      "child":{
+        "child":{
+          "child":{
+            "child":{
+              "child":{
+                "child":null,
+                "data":{
+                  "@type":"food.FoodCategory",
+                  "items":{
+                    "head":{
+                      "child":{
+                        "child":{
+                          "child":null,
+                          "data":{
+                            "@type":"food.FoodItem",
+                            "name":"Juice",
+                            "description":"Freshly squeezed",
+                            "specialOrder":"Comes in apple, grape, orange, and pineapple varieties",
+                            "price":"0.99",
+                            "quantity":50,
+                            "size":1
+                          }
+                        },
+                        "data":{
+                          "@type":"food.FoodItem",
+                          "name":"Soda",
+                          "description":"Of unknown origin",
+                          "specialOrder":"Unknown flavor",
+                          "price":"0.99",
+                          "quantity":50,
+                          "size":1
+                        }
+                      },
+                      "data":{
+                        "@type":"food.FoodItem",
+                        "name":"Water",
+                        "description":"Pure water, with minerals added for flavor",
+                        "specialOrder":"N/A",
+                        "price":"0.99",
+                        "quantity":50,
+                        "size":1
+                      }
+                    }
+                  },
+                  "name":"Drinks"
+                }
+              },
+              "data":{
+                "@type":"food.FoodCategory",
+                "items":{
+                  "head":{
+                    "child":{
+                      "child":{
+                        "child":null,
+                        "data":{
+                          "@type":"food.FoodItem",
+                          "name":"Candy",
+                          "description":"Sweet Candy",
+                          "specialOrder":"Sugar Free",
+                          "price":"0.99",
+                          "quantity":50,
+                          "size":1
+                        }
+                      },
+                      "data":{
+                        "@type":"food.FoodItem",
+                        "name":"Muffins",
+                        "description":"Multi-Grain Muffins",
+                        "specialOrder":"Comes in blueberry, cherry, and apple varieties",
+                        "price":"1.50",
+                        "quantity":20,
+                        "size":5
+                      }
+                    },
+                    "data":{
+                      "@type":"food.FoodItem",
+                      "name":"Lollipops",
+                      "description":"Flavored lollipops",
+                      "specialOrder":"Comes in mint, sour grape, and chocolate flavors",
+                      "price":"0.50",
+                      "quantity":5,
+                      "size":1
+                    }
+                  }
+                },
+                "name":"Desserts"
+              }
+            },
+            "data":{
+              "@type":"food.FoodCategory",
+              "items":{
+                "head":{
+                  "child":{
+                    "child":{
+                      "child":{
+                        "child":null,
+                        "data":{
+                          "@type":"food.FoodItem",
+                          "name":"Beef",
+                          "description":"Meat from a cow",
+                          "specialOrder":"Special",
+                          "price":"10.40",
+                          "quantity":3,
+                          "size":1
+                        }
+                      },
+                      "data":{
+                        "@type":"food.FoodItem",
+                        "name":"Fish",
+                        "description":"Fishy fish",
+                        "specialOrder":"Special",
+                        "price":"6.50",
+                        "quantity":10,
+                        "size":1
+                      }
+                    },
+                    "data":{
+                      "@type":"food.FoodItem",
+                      "name":"Chicken",
+                      "description":"The bird that lays eggs",
+                      "specialOrder":"Special",
+                      "price":"54.50",
+                      "quantity":5,
+                      "size":1
+                    }
+                  },
+                  "data":{
+                    "@type":"food.FoodItem",
+                    "name":"Eggs",
+                    "description":"Not the golden kind",
+                    "specialOrder":"Special",
+                    "price":"12.00",
+                    "quantity":24,
+                    "size":1
+                  }
+                }
+              },
+              "name":"Meats"
+            }
+          },
+          "data":{
+            "@type":"food.FoodCategory",
+            "items":{
+              "head":{
+                "child":{
+                  "child":null,
+                  "data":{
+                    "@type":"food.FoodItem",
+                    "name":"Cheese",
+                    "description":"Stinks slightly",
+                    "specialOrder":"N/A",
+                    "price":"5.25",
+                    "quantity":3,
+                    "size":1
+                  }
+                },
+                "data":{
+                  "@type":"food.FoodItem",
+                  "name":"Milk",
+                  "description":"Diary fresh",
+                  "specialOrder":"Special",
+                  "price":"1.30",
+                  "quantity":30,
+                  "size":1
+                }
+              }
+            },
+            "name":"Dairy"
+          }
+        },
+        "data":{
+          "@type":"food.FoodCategory",
+          "items":{
+            "head":{
+              "child":{
+                "child":{
+                  "child":{
+                    "child":null,
+                    "data":{
+                      "@type":"food.FoodItem",
+                      "name":"Bananas",
+                      "description":"Yellow as the sun",
+                      "specialOrder":"Special",
+                      "price":"5.35",
+                      "quantity":4,
+                      "size":1
+                    }
+                  },
+                  "data":{
+                    "@type":"food.FoodItem",
+                    "name":"Oranges",
+                    "description":"Good for a cold",
+                    "specialOrder":"Out of date",
+                    "price":"6.45",
+                    "quantity":45,
+                    "size":1
+                  }
+                },
+                "data":{
+                  "@type":"food.FoodItem",
+                  "name":"Grapes",
+                  "description":"Purple, of course",
+                  "specialOrder":"Organic",
+                  "price":"1.60",
+                  "quantity":25,
+                  "size":1
+                }
+              },
+              "data":{
+                "@type":"food.FoodItem",
+                "name":"Apples",
+                "description":"Crisp and fresh",
+                "specialOrder":"Honeycrunch",
+                "price":"1.40",
+                "quantity":31,
+                "size":1
+              }
+            }
+          },
+          "name":"Fruits"
+        }
+      },
+      "data":{
+        "@type":"food.FoodCategory",
+        "items":{
+          "head":{
+            "child":{
+              "child":{
+                "child":{
+                  "child":{
+                    "child":{
+                      "child":null,
+                      "data":{
+                        "@type":"food.FoodItem",
+                        "name":"Peppers",
+                        "description":"Caution, very spicy!",
+                        "specialOrder":"Scorpian Variety",
+                        "price":"5.00",
+                        "quantity":14,
+                        "size":1
+                      }
+                    },
+                    "data":{
+                      "@type":"food.FoodItem",
+                      "name":"Onions",
+                      "description":"May cause spontaneous weeping.",
+                      "specialOrder":"Wet",
+                      "price":"3.40",
+                      "quantity":4,
+                      "size":1
+                    }
+                  },
+                  "data":{
+                    "@type":"food.FoodItem",
+                    "name":"Mushrooms",
+                    "description":"Non-Toxic",
+                    "specialOrder":"Special",
+                    "price":"3.90",
+                    "quantity":19,
+                    "size":1
+                  }
+                },
+                "data":{
+                  "@type":"food.FoodItem",
+                  "name":"Brocolli",
+                  "description":"Green and healthy",
+                  "specialOrder":"Special",
+                  "price":"2.10",
+                  "quantity":8,
+                  "size":1
+                }
+              },
+              "data":{
+                "@type":"food.FoodItem",
+                "name":"Asparagus",
+                "description":"Slightly strange",
+                "specialOrder":"Special",
+                "price":"2.00",
+                "quantity":10,
+                "size":1
+              }
+            },
+            "data":{
+              "@type":"food.FoodItem",
+              "name":"Carrots",
+              "description":"Good for your eyes",
+              "specialOrder":"Special",
+              "price":"1.25",
+              "quantity":10,
+              "size":1
+            }
+          }
+        },
+        "name":"Vegetables"
+      }
+    },
+    "data":{
+      "@type":"food.FoodCategory",
+      "items":{
+        "head":{
+          "child":{
+            "child":{
+              "child":null,
+              "data":{
+                "@type":"food.FoodItem",
+                "name":"Noodles",
+                "description":"Like spaghetti",
+                "specialOrder":"Special",
+                "price":"6.40",
+                "quantity":5,
+                "size":1
+              }
+            },
+            "data":{
+              "@type":"food.FoodItem",
+              "name":"Bread",
+              "description":"Whole grain bread.",
+              "specialOrder":"Organic, No Crust",
+              "price":"5.00",
+              "quantity":20,
+              "size":5
+            }
+          },
+          "data":{
+            "@type":"food.FoodItem",
+            "name":"Rice",
+            "description":"Some white rice",
+            "specialOrder":"N/A",
+            "price":"2.50",
+            "quantity":5,
+            "size":5
+          }
+        }
+      },
+      "name":"Grains"
+    }
+  }
+}

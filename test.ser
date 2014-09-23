@@ -1,0 +1,75 @@
+{
+  "@type":"food.CategoryList",
+  "head":{
+    "child":{
+      "child":{
+        "child":null,
+        "data":{
+          "@type":"food.FoodCategory",
+          "items":{
+            "head":{
+              "child":{
+                "child":null,
+                "data":{
+                  "@type":"food.FoodItem",
+                  "name":"Juice",
+                  "description":"From an unknown fruit.",
+                  "specialOrder":"Imported",
+                  "price":"5",
+                  "quantity":200,
+                  "size":5
+                }
+              },
+              "data":{
+                "@type":"food.FoodItem",
+                "name":"Water",
+                "description":"I'ts wet.",
+                "specialOrder":"N/A",
+                "price":"1",
+                "quantity":500,
+                "size":1
+              }
+            }
+          },
+          "name":"Drinks"
+        }
+      },
+      "data":{
+        "@type":"food.FoodCategory",
+        "items":{
+          "head":{
+            "child":null,
+            "data":{
+              "@type":"food.FoodItem",
+              "name":"Low fat chips",
+              "description":"Wet",
+              "specialOrder":"N/A",
+              "price":"1",
+              "quantity":30,
+              "size":1
+            }
+          }
+        },
+        "name":"Snack Foods"
+      }
+    },
+    "data":{
+      "@type":"food.FoodCategory",
+      "items":{
+        "head":{
+          "child":null,
+          "data":{
+            "@type":"food.FoodItem",
+            "name":"Chips",
+            "description":"Crunchy",
+            "specialOrder":"N/A",
+            "price":"1",
+            "quantity":30,
+            "size":1
+          }
+        }
+      },
+      "name":"Food"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+UML Diagram	5
+search the food item	5
+add the food item	5
+update the food item	5
+remove the food item	5
+search the food category	5
+add the food category	5
+update the food category	5
+remove the food category	5
+Generics
+Design a GUI class for merchant interface.
+GUI is friendly to the users (Disable the add button when user search item for update or delete.)
+No errors (runtime, syntax, logic)
+Javadoc	5
+ 	 
+Grand Total	125
